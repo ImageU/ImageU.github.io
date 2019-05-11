@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ImageU on ImageU (Image Understaning)</title>
+    <link>https://imageu.github.io/</link>
+    <description>Recent content in ImageU on ImageU (Image Understaning)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://imageu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image-to-image transformation learning</title>
+      <link>https://imageu.github.io/projects/image_transformation/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/projects/image_transformation/</guid>
+      <description>This is a project started long ago and still ongoing</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://imageu.github.io/members/nina/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://imageu.github.io/members/nina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://imageu.github.io/members/nina2/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://imageu.github.io/members/nina2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object detection in images</title>
+      <link>https://imageu.github.io/projects/object_detection/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/projects/object_detection/</guid>
+      <description>Modern deep learning techniques applied on object detection</description>
+    </item>
+    
+    <item>
+      <title>Astronomical image processing</title>
+      <link>https://imageu.github.io/projects/astro/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/projects/astro/</guid>
+      <description>Photometric surveys in astronomy generates huge amount of data. We are employig machine learning and deep learning techniques to process and analyze</description>
+    </item>
+    
+    <item>
+      <title>Document Image Analysis</title>
+      <link>https://imageu.github.io/projects/document_images/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/projects/document_images/</guid>
+      <description>Document image analysis require local and global structural analysis</description>
+    </item>
+    
+    <item>
+      <title>ImageU data, code, and more</title>
+      <link>https://imageu.github.io/data&#43;code/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/data&#43;code/</guid>
+      <description> 
+An Evaluation of Deep Learning Techniques for QR Code Detection (by L. Blanger, N.S.T. Hirata, ICIP2019)
+ Code Dataset  Symbol detection in online handwritten graphics using Faster R-CNN (by F.D. Julca-Aguilar, N.S.T. Hirata, DAS2018)
+ Code  </description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at ICIP</title>
+      <link>https://imageu.github.io/news/news1/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/news/news1/</guid>
+      <description>ICIP 2019 will be in Taiwan</description>
+    </item>
+    
+    <item>
+      <title>This site is up !</title>
+      <link>https://imageu.github.io/news/news2/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/news/news2/</guid>
+      <description>Finaaally!</description>
+    </item>
+    
+    <item>
+      <title>ImageU</title>
+      <link>https://imageu.github.io/about/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://imageu.github.io/about/</guid>
+      <description>is a science project for image understanding.
+We are interested in studying, developing and applying methods and techniques that help image understanding.
+This project receives support from
+ FAPESP Regular Grant: 2017/25835-9 FAPESP Thematic Grant: 2015/22308-2 FAPESP fellowships: 2018/11899-8, 2018/00477-5, 2018/00390-7, 2018/25671-9  This project is hosted at the eScience lab of the Department of Computer Science at the Institute of Mathematics and Statistics of the University of São Paulo (USP)</description>
+    </item>
+    
+  </channel>
+</rss>

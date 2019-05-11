@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QR on ImageU (Image Understaning)</title>
+    <link>https://imageu.github.io/tags/qr/</link>
+    <description>Recent content in QR on ImageU (Image Understaning)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://imageu.github.io/tags/qr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ImageU data, code, and more</title>
+      <link>https://imageu.github.io/data&#43;code/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/data&#43;code/</guid>
+      <description> 
+An Evaluation of Deep Learning Techniques for QR Code Detection (by L. Blanger, N.S.T. Hirata, ICIP2019)
+ Code Dataset  Symbol detection in online handwritten graphics using Faster R-CNN (by F.D. Julca-Aguilar, N.S.T. Hirata, DAS2018)
+ Code  </description>
+    </item>
+    
+  </channel>
+</rss>
