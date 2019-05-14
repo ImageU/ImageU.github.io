@@ -12,14 +12,14 @@
     
     
     <item>
-      <title>ImageU data, code, and more</title>
+      <title>Data&#43;Code</title>
       <link>https://imageu.github.io/data&#43;code/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
       
       <guid>https://imageu.github.io/data&#43;code/</guid>
-      <description> 
+      <description>  Here you will find pointers to the codes and datasets.
 An Evaluation of Deep Learning Techniques for QR Code Detection (by L. Blanger, N.S.T. Hirata, ICIP2019)
- Code Dataset  Symbol detection in online handwritten graphics using Faster R-CNN (by F.D. Julca-Aguilar, N.S.T. Hirata, DAS2018)
+ Code Dataset (Download instruction)  Symbol detection in online handwritten graphics using Faster R-CNN (by F.D. Julca-Aguilar, N.S.T. Hirata, DAS2018)
  Code  </description>
     </item>
     

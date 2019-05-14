@@ -33,19 +33,18 @@
   </url>
   
   <url>
-    <loc>https://imageu.github.io/</loc>
+    <loc>https://imageu.github.io/data&#43;code/</loc>
     <lastmod>2019-05-11T00:00:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://imageu.github.io/data&#43;code/</loc>
+    <loc>https://imageu.github.io/</loc>
     <lastmod>2019-05-11T00:00:00-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://imageu.github.io/news/</loc>
     <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -106,13 +105,13 @@
   </url>
   
   <url>
-    <loc>https://imageu.github.io/about/</loc>
+    <loc>https://imageu.github.io/members/</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://imageu.github.io/members/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <loc>https://imageu.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

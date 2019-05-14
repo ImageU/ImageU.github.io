@@ -66,14 +66,14 @@
     </item>
     
     <item>
-      <title>ImageU data, code, and more</title>
+      <title>Data&#43;Code</title>
       <link>https://imageu.github.io/data&#43;code/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
       
       <guid>https://imageu.github.io/data&#43;code/</guid>
-      <description> 
+      <description>  Here you will find pointers to the codes and datasets.
 An Evaluation of Deep Learning Techniques for QR Code Detection (by L. Blanger, N.S.T. Hirata, ICIP2019)
- Code Dataset  Symbol detection in online handwritten graphics using Faster R-CNN (by F.D. Julca-Aguilar, N.S.T. Hirata, DAS2018)
+ Code Dataset (Download instruction)  Symbol detection in online handwritten graphics using Faster R-CNN (by F.D. Julca-Aguilar, N.S.T. Hirata, DAS2018)
  Code  </description>
     </item>
     
@@ -93,18 +93,6 @@ An Evaluation of Deep Learning Techniques for QR Code Detection (by L. Blanger, 
       
       <guid>https://imageu.github.io/news/news2/</guid>
       <description>Finaaally!</description>
-    </item>
-    
-    <item>
-      <title>ImageU</title>
-      <link>https://imageu.github.io/about/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://imageu.github.io/about/</guid>
-      <description>is a science project for image understanding.
-We are interested in studying, developing and applying methods and techniques that help image understanding.
-This project receives support from
- FAPESP Regular Grant: 2017/25835-9 FAPESP Thematic Grant: 2015/22308-2 FAPESP fellowships: 2018/11899-8, 2018/00477-5, 2018/00390-7, 2018/25671-9  This project is hosted at the eScience lab of the Department of Computer Science at the Institute of Mathematics and Statistics of the University of São Paulo (USP)</description>
     </item>
     
   </channel>
