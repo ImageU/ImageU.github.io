@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ImageU (Image Understaning)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Tags on ImageU (Image Understaning)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2019 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://imageu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Object detection</title>
       <link>https://imageu.github.io/tags/object-detection/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 -0300</pubDate>
       
       <guid>https://imageu.github.io/tags/object-detection/</guid>
       <description></description>
@@ -23,25 +23,16 @@
     <item>
       <title>QR</title>
       <link>https://imageu.github.io/tags/qr/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 -0300</pubDate>
       
       <guid>https://imageu.github.io/tags/qr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>QR code</title>
-      <link>https://imageu.github.io/tags/qr-code/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
-      
-      <guid>https://imageu.github.io/tags/qr-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>deep-learning</title>
       <link>https://imageu.github.io/tags/deep-learning/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
       <guid>https://imageu.github.io/tags/deep-learning/</guid>
       <description></description>

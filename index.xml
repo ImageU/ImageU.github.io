@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ImageU on ImageU (Image Understaning)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in ImageU on ImageU (Image Understaning)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2019 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://imageu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -66,33 +66,29 @@
     </item>
     
     <item>
+      <title>Up</title>
+      <link>https://imageu.github.io/up/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 -0300</pubDate>
+      
+      <guid>https://imageu.github.io/up/</guid>
+      <description>Highlights  Paper: Self-supervised learning for astronomical image classification In ICPR (to appear), 2020.
+Paper: Skeletal similarity based structural performance evaluation for document binarization (Augusto C. M. Silva, Xiaoyi Jiang, Nina Hirata, ICFHR 2020 - to appear)
+Paper: Deep learning multidimensional projections. Information Visualization, 2020
+Member: (April 2020) P. H. B. Almeida awarded with FAPESP scholarship (process 2020/02891-3)
+Paper: Towards a quantitative survey of dimension reduction techniques, IEEE TVCG
+Paper: Improving neural network-based multidimensional projections, IVAP 2020</description>
+    </item>
+    
+    <item>
       <title>Data&#43;Code</title>
       <link>https://imageu.github.io/data&#43;code/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
       
       <guid>https://imageu.github.io/data&#43;code/</guid>
-      <description>  Here you will find pointers to the codes and datasets.
-An Evaluation of Deep Learning Techniques for QR Code Detection (by L. Blanger, N.S.T. Hirata, ICIP2019)
- Code Dataset (Download instruction)  Symbol detection in online handwritten graphics using Faster R-CNN (by F.D. Julca-Aguilar, N.S.T. Hirata, DAS2018)
- Code  </description>
-    </item>
-    
-    <item>
-      <title>Paper accepted at ICIP</title>
-      <link>https://imageu.github.io/news/news1/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
-      
-      <guid>https://imageu.github.io/news/news1/</guid>
-      <description>ICIP 2019 will be in Taiwan</description>
-    </item>
-    
-    <item>
-      <title>This site is up !</title>
-      <link>https://imageu.github.io/news/news2/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
-      
-      <guid>https://imageu.github.io/news/news2/</guid>
-      <description>Finaaally!</description>
+      <description>Here you will find pointers to the codes, datasets and/or supplementary materials.
+ Skeletal similarity based structural performance evaluation for document binarization (A. C. M. Silva, Xiaoyi Jiang, Nina Hirata, ICFHR 2020 - to appear)
+ Supplementary material (Here)   An Evaluation of Deep Learning Techniques for QR Code Detection (L. Blanger, N.S.T. Hirata, ICIP2019)
+ Code Dataset (Download instruction)   Symbol detection in online handwritten graphics using Faster R-CNN (F.</description>
     </item>
     
   </channel>

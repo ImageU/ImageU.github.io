@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -33,59 +33,43 @@
   </url>
   
   <url>
+    <loc>https://imageu.github.io/</loc>
+    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imageu.github.io/tags/object-detection/</loc>
+    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imageu.github.io/tags/qr/</loc>
+    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imageu.github.io/tags/</loc>
+    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imageu.github.io/up/</loc>
+    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://imageu.github.io/data&#43;code/</loc>
     <lastmod>2019-05-11T00:00:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://imageu.github.io/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/news/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/object-detection/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/news/news1/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/qr/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/qr-code/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://imageu.github.io/tags/deep-learning/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://imageu.github.io/tags/documents/</loc>
     <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -94,14 +78,8 @@
   </url>
   
   <url>
-    <loc>https://imageu.github.io/news/news2/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://imageu.github.io/tags/machine-learning/</loc>
     <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -111,7 +89,6 @@
   
   <url>
     <loc>https://imageu.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

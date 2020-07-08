@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-learning on ImageU (Image Understaning)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in deep-learning on ImageU (Image Understaning)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2019 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://imageu.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,24 +36,6 @@
       
       <guid>https://imageu.github.io/projects/astro/</guid>
       <description>Photometric surveys in astronomy generates huge amount of data. We are employig machine learning and deep learning techniques to process and analyze</description>
-    </item>
-    
-    <item>
-      <title>Paper accepted at ICIP</title>
-      <link>https://imageu.github.io/news/news1/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 -0300</pubDate>
-      
-      <guid>https://imageu.github.io/news/news1/</guid>
-      <description>ICIP 2019 will be in Taiwan</description>
-    </item>
-    
-    <item>
-      <title>This site is up !</title>
-      <link>https://imageu.github.io/news/news2/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
-      
-      <guid>https://imageu.github.io/news/news2/</guid>
-      <description>Finaaally!</description>
     </item>
     
   </channel>
