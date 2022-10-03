@@ -1,59 +1,72 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ImageU (Image Understaning)</title>
-    <link>https://imageu.github.io/tags/</link>
-    <description>Recent content in Tags on ImageU (Image Understaning)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    
+    <title>Tags</title>
+    
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags</description>
+    
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 -0300</lastBuildDate>
     
-	<atom:link href="https://imageu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <managingEditor>example@example.com</managingEditor>
+    <webMaster>example@example.com</webMaster>
+    
+    
+    
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
+      
       <title>Object detection</title>
-      <link>https://imageu.github.io/tags/object-detection/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 -0300</pubDate>
       
-      <guid>https://imageu.github.io/tags/object-detection/</guid>
-      <description></description>
+      
+      <link>https://example.com/tags/object-detection/</link>
+      <guid>https://example.com/tags/object-detection/</guid>
+      
+      
+      <pubDate>Sat, 11 May 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
     </item>
     
     <item>
+      
       <title>QR</title>
-      <link>https://imageu.github.io/tags/qr/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 -0300</pubDate>
       
-      <guid>https://imageu.github.io/tags/qr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>https://imageu.github.io/tags/deep-learning/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
-      <guid>https://imageu.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Documents</title>
-      <link>https://imageu.github.io/tags/documents/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
+      <link>https://example.com/tags/qr/</link>
+      <guid>https://example.com/tags/qr/</guid>
       
-      <guid>https://imageu.github.io/tags/documents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://imageu.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
-      <guid>https://imageu.github.io/tags/machine-learning/</guid>
-      <description></description>
+      <pubDate>Sat, 11 May 2019 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
     </item>
     
   </channel>

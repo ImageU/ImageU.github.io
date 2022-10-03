@@ -1,50 +1,220 @@
+
+
+
+
+
+
+
+
+
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ImageU projects on ImageU (Image Understaning)</title>
-    <link>https://imageu.github.io/projects/</link>
-    <description>Recent content in ImageU projects on ImageU (Image Understaning)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    
+    <link>https://example.com/projects/</link>
+    <description>Recent content</description>
+    
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 -0300</lastBuildDate>
     
-	<atom:link href="https://imageu.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <managingEditor>example@example.com</managingEditor>
+    <webMaster>example@example.com</webMaster>
+    
+    
+    
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml"/>
     
     
     <item>
-      <title>Image-to-image transformation learning</title>
-      <link>https://imageu.github.io/projects/image_transformation/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
-      <guid>https://imageu.github.io/projects/image_transformation/</guid>
-      <description>This is a project started long ago and still ongoing</description>
+      <title>Image classification</title>
+      
+      
+      <link>https://example.com/projects/project3/</link>
+      <guid>https://example.com/projects/project3/</guid>
+      
+      
+      <pubDate>Sun, 02 Oct 2022 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+      <description><![CDATA[<br>
+<ul>
+<li>
+<p>Ana Martinazzo, Mateus Espadoto, and Nina S. T. Hirata. <a href="https://doi.org/10.5220/0008939800870095"><em>Deep learning for astronomical object classification: A case study</em></a>. In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, pages 87–95. INSTICC, SciTePress, 2020.</p>
+</li>
+<li>
+<p>Ana Martinazzo, Mateus Espadoto, and Nina S. T. Hirata. <a href="https://doi.org/10.1109/ICPR48806.2021.9412911"><em>Self-supervised learning for astronomical image classification</em></a>. In 25th International Conference on Pattern Recognition (ICPR), pages 4176–4182, 2021.</p>
+</li>
+<li>
+<p>L Nakazono, C Mendes de Oliveira, N S T Hirata, S Jeram, C Queiroz, Stephen S Eiken- berry, A H Gonzalez, R Abramo, R Overzier, M Espadoto, A Martinazzo, L Sampedro, F R Herpich, F Almeida-Fernandes, A Werle, C E Barbosa, L Sodré Jr., E V Lima, M L Buzzo, A Cortesi, K Menndez-Delmestre, S Akras, Alvaro Alvarez-Candal, A R Lopes, E Telles, W Schoenell, A Kanaan, and T Ribeiro. <a href="https://doi.org/10.1093/mnras/stab1835"><em>On the discovery of stars, quasars, and galaxies in the Southern Hemisphere with S-PLUS DR2</em></a>. Monthly Notices of the Royal Astronomical Society, 507(4):5847–5868, 07 2021.</p>
+</li>
+<li>
+<p>Nina S.~T. Hirata, Alexandre Morimitsu, and Antonio Goulart. <a href=""><em>Separating particles from plankton images</em></a>. In 5th Workshop on Computer Vision for Analysis of Underwater Imagery (CVAUI), To appear, 2022.</p>
+</li>
+</ul>
+]]></description>
+      
     </item>
     
     <item>
-      <title>Object detection in images</title>
-      <link>https://imageu.github.io/projects/object_detection/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
-      <guid>https://imageu.github.io/projects/object_detection/</guid>
-      <description>Modern deep learning techniques applied on object detection</description>
+      <title>Object detection</title>
+      
+      
+      <link>https://example.com/projects/project1/</link>
+      <guid>https://example.com/projects/project1/</guid>
+      
+      
+      <pubDate>Sun, 02 Oct 2022 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+      <description><![CDATA[<br>
+<ul>
+<li>
+<p><strong>QR code detection in natural images</strong>: We propose a deep learning based model that is trained to detect the whole code area as well as the finder patterns in three corners of the code. Performance is compared to an earlier model based on the Viola-Jones object detection framework.</p>
+<ul>
+<li>Related <a href="https://doi.org/10.1109/ICIP.2019.8803075">paper</a> (<em>An Evaluation of Deep Learning Techniques for QR Code Detection</em>) and <a href="/datacode/">instructions for code and data</a>.</li>
+<li>earlier model code (<a href="https://sourceforge.net/projects/fastqr/">FastQR</a>) and <a href="https://doi.org/10.1007/s10851-012-0355-x">paper</a> (<em>Fast component-based QR code detection in arbitrarily acquired images</em>)<br><br></li>
+</ul>
+</li>
+<li>
+<p>Labeling data for object detection is costier than labeling them for classification. We propose a method that leverages data with classification data to train objetc detectors.</p>
+<ul>
+<li>Related <a href="https://doi.org/10.1109/SIBGRAPI54419.2021.00035">paper</a> (<em>Reducing the need for bounding box annotations in object detection using image classification data</em>).</li>
+<li>See also the <a href="https://doi.org/10.11606/D.45.2020.tde-10112020-203810">dissertation by L. Blanger</a></li>
+</ul>
+</li>
+</ul>
+]]></description>
+      
     </item>
     
     <item>
-      <title>Astronomical image processing</title>
-      <link>https://imageu.github.io/projects/astro/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
-      <guid>https://imageu.github.io/projects/astro/</guid>
-      <description>Photometric surveys in astronomy generates huge amount of data. We are employig machine learning and deep learning techniques to process and analyze</description>
+      <title>Learning multidimensional projections and applications</title>
+      
+      
+      <link>https://example.com/projects/project2/</link>
+      <guid>https://example.com/projects/project2/</guid>
+      
+      
+      <pubDate>Sun, 02 Oct 2022 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+      <description><![CDATA[<br>
+<ul>
+<li>
+<p>M. Espadoto, F. C. M. Rodrigues, N. S. T. Hirata, and A. C. Telea. <a href="https://www.scitepress.org/Papers/2021/102885/102885.pdf"><em>Optmap: Using dense maps for visualizing multidimensional optimization problems</em></a>. In Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2021) - Volume 3: IVAPP, pages 123–132. SCITEPRESS, 2021.</p>
+</li>
+<li>
+<p>M. Espadoto, N. S. T. Hirata, and A. C. Telea. <a href="https://www.scitepress.org/Papers/2021/101848/101848.pdf"><em>Self-supervised dimensionality reduction with neural networks and pseudo-labeling</em></a>. In Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2021) - Volume 3: IVAPP, pages 27–37, 2021.</p>
+</li>
+<li>
+<p>Mateus Espadoto, Rafael Martins, Andreas Kerren, Nina Hirata, and Alexandru Telea. <a href="https://doi.org/10.1109/TVCG.2019.2944182"><em>Towards a quantitative survey of dimension reduction techniques</em></a>. IEEE Transactions on Visualization and Computer Graphics, 27(3):2153–2173, 2021.</p>
+</li>
+<li>
+<p>Mateus Espadoto, N. S. T. Hirata, and Alexandru C Telea. <a href="https://doi.org/10.1177/1473871620909485"><em>Deep learning multidimensional projections</em></a>. Information Visualization, 2020.</p>
+</li>
+<li>
+<p>Mateus Espadoto, Nina S. T. Hirata, Alexandre X. Falcão, and Alexandru C. Telea. <a href="https://doi.org/10.5220/0008877200290041"><em>Improving neural network-based multidimensional projections</em></a>. In Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 3: IVAPP, pages 29–41. INSTICC, SciTePress, 2020.</p>
+</li>
+<li>
+<p>M. Espadoto, F. C. M. Rodrigues, N. S. T. Hirata, R. Hirata Jr., A. C. Telea. <a href="https://diglib.eg.org/handle/10.2312/eurova20191118"><em>Deep Learning Inverse Multidimensional Projections</em></a>, EuroVis Workshop on Visual Analytics (EuroVA), 2019</p>
+</li>
+</ul>
+]]></description>
+      
     </item>
     
     <item>
-      <title>Document Image Analysis</title>
-      <link>https://imageu.github.io/projects/document_images/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0300</pubDate>
       
-      <guid>https://imageu.github.io/projects/document_images/</guid>
-      <description>Document image analysis require local and global structural analysis</description>
+      <title>Documents and handwriting</title>
+      
+      
+      <link>https://example.com/projects/project4/</link>
+      <guid>https://example.com/projects/project4/</guid>
+      
+      
+      <pubDate>Sun, 02 Oct 2022 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+      <description><![CDATA[<br>
+<ul>
+<li>
+<p><strong>Image-to-image transformation</strong></p>
+<ul>
+<li>
+<p>Augusto C. M. Silva, Xiaoyi Jiang, and Nina Hirata. <a href="https://doi.org/10.1109/ICFHR2020.2020.00018"><em>Skeletal similarity based structural performance evaluation for document binarization</em></a>. In International Conference on Frontiers of Handwriting Recognition (ICFHR), pp.37-42, 2020</p>
+</li>
+<li>
+<p>Ana L. M. Maia, F. D. Julca-Aguilar, and N. S. T. Hirata. <a href="https://ieeexplore.ieee.org/document/8614358"><em>A machine learning approach for graph-based page segmentation</em></a>, 31th Conference on Graphics, Patterns and Images (SIBGRAPI), 2018, pp.424-431.<br></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Handwriting</strong></p>
+<ul>
+<li>
+<p><strong>Image-to-sequence</strong>: Sergio~Y. Hayashi and Nina S.~T. Hirata. <a href=""><em>Understanding attention-based encoder-decoder networks: a case study with chess scoresheet recognition</em></a>. In International Conference on Pattern Recognition (ICPR), 2022 (to appear).<br></p>
+</li>
+<li>
+<p>Frank D. Julca-Aguilar, Harold Mouchère, Christian Viard-Gaudin, and Nina S. T. Hirata. <a href="http://link.springer.com/article/10.1007/s10032-019-00349-6"><em>A general framework for the recognition of online handwritten graphics</em></a>. International Journal on Document Analysis and Recognition (IJDAR), 23, pages 143–160, 2020.</p>
+</li>
+<li>
+<p>F. D. Julca-Aguilar and N. S. T. Hirata, <a href="https://ieeexplore.ieee.org/document/8395187"><em>Symbol detection in online handwritten graphics using Faster R-CNN</em></a>, 13th IAPR International Workshop on Document Analysis Systems (DAS), 2018, pp. 151-156</p>
+</li>
+</ul>
+</li>
+</ul>
+]]></description>
+      
+    </item>
+    
+    <item>
+      
+      <title>Others</title>
+      
+      
+      <link>https://example.com/projects/project5/</link>
+      <guid>https://example.com/projects/project5/</guid>
+      
+      
+      <pubDate>Sun, 02 Oct 2022 00:00:00 -0700</pubDate>
+      
+      
+      <author>example@example.com</author>
+      
+      
+      <description><![CDATA[<br>
+<ul>
+<li>
+<p>Junior Barrera, Ronaldo F. Hashimoto, Nina S. T. Hirata, Roberto Hirata Jr., and Marcelo da Silva Reis. <a href="https://doi.org/10.1007/s40863-022-00303-1"><em>From mathematical morphology to machine learning of image operators</em></a>. São Paulo Journal of Mathematical Sciences, 16:616-657, 2022.</p>
+</li>
+<li>
+<p>G. F. Fortino, J. C. Zamora, L. E. Tamayose, N. S. T. Hirata, and V. Guimarães. <a href="https://doi.org/10.1016/j.nima.2022.166497"><em>Digital signal analysis based on convolutional neural networks for active target time projection chambers</em></a>. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 1031:166497, 2022.</p>
+</li>
+<li>
+<p>Nina S. T. Hirata and George A. Papakostas. <a href="https://www.mdpi.com/2227-7390/9/16/1854"><em>On machine-learning morphological image operators</em></a>. Mathematics, 9(16), 2021</p>
+</li>
+</ul>
+]]></description>
+      
     </item>
     
   </channel>

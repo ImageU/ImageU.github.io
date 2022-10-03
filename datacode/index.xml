@@ -16,10 +16,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>Categories</title>
+    <title>Data&#43;Code</title>
     
-    <link>https://example.com/categories/</link>
-    <description>Recent content in Categories</description>
+    <link>https://example.com/datacode/</link>
+    <description>Recent content in Data&#43;Code</description>
     
     <language>en-us</language>
     
@@ -29,8 +29,10 @@
     
     
     
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 -0700</lastBuildDate>
     
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml"/>
+    
+    <atom:link href="https://example.com/datacode/index.xml" rel="self" type="application/rss+xml"/>
     
     
   </channel>

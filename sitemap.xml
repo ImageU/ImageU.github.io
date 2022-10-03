@@ -1,94 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://imageu.github.io/projects/image_transformation/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
+    <loc>https://example.com/projects/project3/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/projects/project1/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/projects/project2/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/projects/project4/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/projects/project5/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/projects/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/people/</loc>
+    <lastmod>2022-10-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/datacode/</loc>
+    <lastmod>2019-05-11T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/object-detection/</loc>
+    <lastmod>2019-05-11T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/qr/</loc>
+    <lastmod>2019-05-11T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2019-05-11T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
   </url>
-  
-  <url>
-    <loc>https://imageu.github.io/members/nina/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/projects/object_detection/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/members/nina2/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/projects/astro/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/projects/document_images/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/</loc>
-    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/object-detection/</loc>
-    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/qr/</loc>
-    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/</loc>
-    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/up/</loc>
-    <lastmod>2020-07-07T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/data&#43;code/</loc>
-    <lastmod>2019-05-11T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/deep-learning/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/documents/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/projects/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/tags/machine-learning/</loc>
-    <lastmod>2019-05-10T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/members/</loc>
-    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imageu.github.io/categories/</loc>
-  </url>
-  
 </urlset>
